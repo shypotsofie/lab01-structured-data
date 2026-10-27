@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="SPL-01">
+    <title>Спеціалізовані мови програмування</title>
+    <semester>1</semester>
+    <credits>4</credits>
+    <lecturer>
+        <name>Олена Коваль</name>
+        <department>Кафедра комп'ютерних наук</department>
+        <email>lecturer@example.edu</email>
+    </lecturer>
+    <topics>
+        <topic>DSL</topic>
+        <topic>XML</topic>
+        <topic>JSON</topic>
+        <topic>YAML</topic>
+        <topic>Markdown</topic>
+    </topics>
+    <students>
+        <student id="ST001" active="true">
+            <name>Андрій Мельник</name>
+            <group>KN-31</group>
+        </student>
+        <student id="ST002" active="true">
+            <name>Марія Бондар</name>
+            <group>KN-31</group>
+        </student>
+        <student id="ST003" active="false">
+            <name>Олег Савчук</name>
+            <group>KN-32</group>
+        </student>
+    </students>
+    <schedule>
+        <day>Wednesday</day>
+        <start>10:00</start>
+        <room>305</room>
+    </schedule>
+</course>

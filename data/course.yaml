@@ -1,0 +1,31 @@
+id: SPL-01
+title: Спеціалізовані мови програмування
+semester: 1
+credits: 4
+lecturer:
+  name: Олена Коваль
+  department: Кафедра комп'ютерних наук
+  email: lecturer@example.edu
+topics:
+  - DSL
+  - XML
+  - JSON
+  - YAML
+  - Markdown
+students:
+  - id: ST001
+    name: Андрій Мельник
+    group: KN-31
+    active: true
+  - id: ST002
+    name: Марія Бондар
+    group: KN-31
+    active: true
+  - id: ST003
+    name: Олег Савчук
+    group: KN-32
+    active: false
+schedule:
+  day: Wednesday
+  start: "10:00"
+  room: "305"
